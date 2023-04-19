@@ -12,7 +12,7 @@ variables:
   azureSubscription: 'flatris-connection'
   
   # Web app name
-  webAppName: 'testgame-bc'
+  webAppName: 'testgame-rc'
   
   # Resource group
   resourceGroupName: 'pipeline-course-rg'
