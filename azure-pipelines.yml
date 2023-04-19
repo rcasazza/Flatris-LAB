@@ -18,7 +18,7 @@ variables:
   resourceGroupName: 'pipeline-course-rg'
  
   # Environment name
-  environmentName: 'testgame-rc'
+  environmentName: 'stage'
  
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
